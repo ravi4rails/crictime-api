@@ -22,7 +22,7 @@ default: &default
   username: shreya
   password: 123456
   host: localhost
-  port: 25
+  port: 5432
   timeout: 5000
   
 development:
